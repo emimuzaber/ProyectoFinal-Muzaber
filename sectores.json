@@ -1,0 +1,30 @@
+{
+    "sectores": [
+      {
+        "id": 1,
+        "nombre": "Sector GENERAL 1",
+        "tickets": [{ "type": "Entrada GENERAL 1", "precio": 8000 }]
+      },
+      {
+        "id": 2,
+        "nombre": "Sector VIP",
+        "tickets": [{ "type": "Entrada VIP", "precio": 10000 }]
+      },
+      {
+        "id": 3,
+        "nombre": "Sector GENERAL 2",
+        "tickets": [{ "type": "Entrada GENERAL 2", "precio": 8000 }]
+      },
+      {
+        "id": 4,
+        "nombre": "Sector BALCON 4",
+        "tickets": [{ "type": "Entrada BALCON 4", "precio": 6000 }]
+      },
+      {
+        "id": 5,
+        "nombre": "Sector BALCON 5",
+        "tickets": [{ "type": "Entrada BALCON 5", "precio": 6000 }]
+      }
+    ]
+  }
+  
